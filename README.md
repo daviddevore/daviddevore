@@ -1,5 +1,5 @@
 # David DeVore
-### I am currently a Senior Computer Science Student at the University of Florida. I graduate in December 2023.
+### I am currently a Software Developer at USAble Life. I am a University of Florida Graduate with a Bachelor's Degree in Computer Science.
 
 
 
