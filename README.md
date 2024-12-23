@@ -1,5 +1,5 @@
 # David DeVore
-### I am currently a Software Developer at USAble Life. I am a University of Florida Graduate with a Bachelor's Degree in Computer Science.
+### I am a Software Developer at USAble Life and a University of Florida Graduate with a Bachelor's Degree in Computer Science.
 
 
 
